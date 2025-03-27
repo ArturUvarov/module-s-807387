@@ -1,0 +1,57 @@
+.imagelogo {
+  width: 90px;
+  height: 50px;
+}
+.navitems {
+  display: flex;
+  justify-content: space-around;
+}
+.hello {
+  height: 765px;
+  width: 764px;
+  margin-left: 700px;
+}
+.imagediv {
+  display: grid;
+  grid-column: 4/5;
+  grid-row: 3/4;
+}
+.text {
+  display: grid;
+  grid-column: 2/2;
+  grid-row: 3/4;
+}
+.maintext {
+  size: 50px;
+  text-align: center;
+}
+.grid-1 {
+  display: grid;
+  grid-column: 1/2;
+  grid-row: 2/3;
+}
+.grid-2 {
+  display: grid;
+  grid-column: 2/2;
+  grid-row: 2/3;
+}
+.grid-3 {
+  display: grid;
+  grid-column: 3/3;
+  grid-row: 2/3;
+}
+.grid-4 {
+  display: grid;
+  grid-column: 4/4;
+  grid-row: 2/3;
+}
+.category {
+  text-align: center;
+}
+
+.europe,
+.london,
+.rome {
+  width: 150px;
+  height: auto;
+}
